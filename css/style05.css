@@ -1,0 +1,30 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 15px;
+}
+body {
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+pre {
+    text-align: center;
+}
+div{
+    align-items: center;
+    text-align: center;
+    display: block;
+}
+a {
+    align-items: center;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: white;
+    display: block;
+}

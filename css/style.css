@@ -1,0 +1,25 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 15px;
+}
+body {
+    background-color: beige;
+}
+h1 {
+    border: 2px solid blueviolet;
+    text-align: center;
+    
+}
+h2 {
+    text-align: center;
+    font-style: italic;
+    color: black;
+}
+div{
+    align-items: center;
+    text-align: center;
+    display: block;
+}
+img {
+    border: 5px solid rebeccapurple;
+}
